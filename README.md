@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <!--**- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning Python Programming.
 - 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for help with Python Programming
+- 🤔 I’m looking for help with Python
 <!-- 💬 Ask me about -->
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/lakshmi-narayan-dwivedi-1812a513a
 <!-- 😄 Pronouns: ...
