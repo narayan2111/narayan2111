@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Python
 <!-- 💬 Ask me about -->
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/lakshmi-narayan-dwivedi-1812a513a
-"{\"localizedFirstName\":\"Lakshmi Narayan\",\"localizedLastName\":\"Dwivedi\",\"localizedProfiles\":[{\"vanityName\":\"lakshmi-narayan-dwivedi-1812a513a\",\"firstName\":\"Lakshmi Narayan\",\"lastName\":\"Dwivedi\",\"profileUrl\":\"https://in.linkedin.com/in/lakshmi-narayan-dwivedi-1812a513a\",\"displayLocale\":\"English\",\"encodedId\":null,\"locale\":\"en_US\",\"canonicalName\":null}],\"pageKey\":\"profile-badge-create\",\"badgeVersion\":\"v1\",\"jsBeaconUrl\":\"https://www.linkedin.com/analytics/noauthtracker\",\"defaultBadgeType\":null,\"canonicalUrl\":\"https://www.linkedin.com/badges/profile/create?vanityname=lakshmi-narayan-dwivedi-1812a513a&preferredlocale=en_US\",\"cdnJsPath\":\"https://platform.linkedin.com/badges/js/profile.js\"}"
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
