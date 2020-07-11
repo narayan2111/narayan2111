@@ -15,5 +15,5 @@ Here's something about me:
 <!-- 💬 Ask me about -->
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/lakshmi-narayan-dwivedi-1812a513a
 <!-- 😄 Pronouns: ...--->
-- ⚡ Fun fact: I'm writer ...
+- ⚡ Fun fact: I'm writer 
 -->
