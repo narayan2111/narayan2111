@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Code enthusiastic and beginner in C/C++ and Python programming languages, with data science skills.
+I'm Code enthusiastic and intermediate in C/C++ and beginner Python programming languages, with data science skills.
 Currently pursuing my 3 year Bachelors Degree Program focused on Computer Applications from IGNOU, NEW DELHI
 
 <!--
