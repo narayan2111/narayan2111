@@ -8,10 +8,10 @@ Currently pursuing my 3 year Bachelors Degree Program focused on Computer Applic
 Here's something about me:
 
 <!--**- 🔭 I’m currently working on ...-->
-- I'm a Computer Application student at IGNOU.
-- 🌱 Currently learning Python Programming.
+
+- 🌱 Beginner in DSA. 
 - 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for help with Python
+-
 <!-- 💬 Ask me about -->
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/lakshmi-narayan-dwivedi-1812a513a
 <!-- 😄 Pronouns: ...--->
