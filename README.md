@@ -18,7 +18,8 @@ Here's something about me:
 - 👯 Looking to collaborate in open source projects.
 <!-- 💬 Ask me about -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=narayan2111&count_private=true&hide_border=false&show_icons=true" />
+[![Narayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=narayan2111)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2 align="center" >Connect with me</h2>
 <div align="center">
